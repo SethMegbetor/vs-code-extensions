@@ -1,0 +1,27 @@
+{
+	"name": "NodeJS-extension-pack",
+	"displayName": "Node.js extension pack",
+	"description": "The most common extensions for Node.js in one pack.\nThis extension pack includes: \n\nNode Debug\nMongo Snippets for Node-js\naws-sdk snippets pack for node js\nNode Exec\nc\nSearch node_modules\nJS Refactor\nNode JSON Autocomplete",
+	"publisher": "walkme",
+	"version": "0.0.2",
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"ms-vscode.node-debug2",
+		"miramac.vscode-exec-node",
+		"jasonnutter.search-node-modules",
+		"cmstead.jsrefactor",
+		"bhshawon.node-json-autocomplete"
+	],
+	"homepage": "https://walkme-shortcuts.com/",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"repository": "https://walkme-shortcuts.com/",
+	"__metadata": {
+		"id": "32b7b797-9475-4706-9238-349c12ac33ee",
+		"publisherId": "05390d02-4558-43b9-ae89-bc092b2d2ffb",
+		"publisherDisplayName": "walkme"
+	}
+}
